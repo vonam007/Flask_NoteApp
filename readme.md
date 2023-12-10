@@ -13,4 +13,4 @@ This is a simple Flask application for managing notes.
 ## Usage
 
 - Create a new note by clicking on the "New Note" button.
-- - Delete a note by clicking on the trash icon next to the note.
+- Delete a note by clicking on the trash icon next to the note.
